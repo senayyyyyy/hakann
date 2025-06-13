@@ -30,11 +30,16 @@ jobs:
       - name: API'den M3U Listesini Al
         run: python kablo.py
 
-      run: |
-           git config --global user.name "actions-user"
-           git config --global user.email "actions@github.com"
-          
-           git add mehmet.m3u
-           
-           git diff --staged --quiet || git commit -m "Update M3U8 files"
-           git push --force
+- name: Değişiklik Kontrolü
+        id: degisiklik_kontrol
+        run: |
+          git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
+
+      - name: Değişiklikleri Commit Et
+        if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "📡 Kablo ve M3U güncellemesi yapıldı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
+          git push
