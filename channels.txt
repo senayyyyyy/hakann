@@ -14,8 +14,6 @@ Süper FM,https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac?/;stream.mp3,
 Number One FM,https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8,https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_FM-1.png,1
 Pal FM,https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg,1
 
-TRT Antalya Radyo,https://radio-trtantalya.medya.trt.com.tr/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TRT_Antalya_Radyosu_logo.svg/1280px-TRT_Antalya_Radyosu_logo.svg.png,0
-TRT Memleketim FM,https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TRT_Memleketim_FM_logo.svg/1920px-TRT_Memleketim_FM_logo.svg.png,0
 Radyo 45lik,https:\/\/stream.radyo45lik.com:4545\/,https://radyo45lik.com/wp-content/uploads/2022/12/radyo45lik_c1a.jpg,0
 90lar,https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg,0
 Aşk FM,https://stream.netradyom.com/radio/8000/radio.mp3?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/ask-fm.jpg,0
