@@ -1,0 +1,82 @@
+TRT FM,https://trt.radyotvonline.net/trtfm,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/1200px-TRT_FM_logo.svg.png,1
+Power Türk Love,https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8,https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_36.png?v=10,1
+Best FM,https://officialbestfm.radyotvonline.net/bestfmofficial?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png,1
+Power Türk Akustik,https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8,https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png?v=4,1
+Joy Türk,https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK128AAC.aac?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/joy-turk-dinle.jpg,1
+Power Türk Slow,https://listen.powerapp.com.tr/powerturkslow/abr/playlist.m3u8,https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4,1
+Alem FM,https://alemfm.radyotvonline.net/alemfmaac?/;stream.mp3,https://upload.wikimedia.org/wikipedia/tr/b/bf/Alem_fm.jpg,1
+Power Türk Taptaze,https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8,https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v=4,1
+Radyo Pause,https://radyopause.ozelip.com.tr:8040/stream?/;stream.mp3,https://www.radyopause.com.tr/assets/images/logo/logo.png,1
+Radyo Trio,https://radyotrio.radyotvonline.net/radyotrio?/;stream.mp3,https://play-lh.googleusercontent.com/hgg2k7Rj0wQt5vlBdhYdl_A539_mnz8nxvfpOzB4lSwg8iZxjkwacyPX40XiadyA3Ys,1
+Radyo Turkuvaz,https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8,https://yt3.googleusercontent.com/I1TUPTdixUHEx_Lt0LOqZIGJcVLsmzVMQJ_KE_fHbXoX-4LO9Dte4uJwGV02KUGZ9Ft4sMt6_w=s900-c-k-c0x00ffffff-no-rj,1
+Radyo Viva,https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8,https://play-lh.googleusercontent.com/BYbWUPuUdFpWoh8AQBMxjLV4psmBUo7J6azOOPzbHYNJSgeIv9gG84taDx4QzsaUxiI,1
+Süper FM,https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac?/;stream.mp3,https://mediacdns.karnaval.com/media/station_media/1/icons/apple-touch-icon-180x180.png,1
+Number One FM,https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8,https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_FM-1.png,1
+Pal FM,https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg,1
+
+TRT Antalya Radyo,https://radio-trtantalya.medya.trt.com.tr/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TRT_Antalya_Radyosu_logo.svg/1280px-TRT_Antalya_Radyosu_logo.svg.png,0
+TRT Memleketim FM,https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TRT_Memleketim_FM_logo.svg/1920px-TRT_Memleketim_FM_logo.svg.png,0
+Radyo 45lik,https:\/\/stream.radyo45lik.com:4545\/,https://radyo45lik.com/wp-content/uploads/2022/12/radyo45lik_c1a.jpg,0
+90lar,https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg,0
+Aşk FM,https://stream.netradyom.com/radio/8000/radio.mp3?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/ask-fm.jpg,0
+Best FM,https://officialbestfm.radyotvonline.net/bestfmofficial?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png,0
+Joy Türk,https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK128AAC.aac?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/joy-turk-dinle.jpg,0
+Alem FM,https://alemfm.radyotvonline.net/alemfmaac?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg,0
+Kral FM,https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.jpg,0
+Metro FM,https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM128AAC.aac?/;stream.mp3,https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png?v=110924010401,0
+Pal Nostalji,https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg,0
+Pop 90lar,https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac?/;stream.mp3,https://ik.fskit.net/radyohome/media/station/31/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=ff9833&tr=w-1000%3A%2Cbg-ff9833&v=060520030000,0
+Radyo 7,https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg,0
+Radyo Alaturka,https://yayin.jumboserver.net:9100/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-alaturka-dinle.jpg,0
+
+Arabesk Radyo,https://yayin.santraltr.com/hls/arabeskyeni.m3u8,https://is2-ssl.mzstatic.com/image/thumb/Purple19/v4/ac/38/1a/ac381a7b-8b9d-e1ea-d07e-ca783d8d990b/source/512x512bb.jpg,2
+Damar Radyo,https://live.radyositesihazir.com/7000/stream/;stream.mp3,https://www.sahmatajans.com/wp-content/uploads/2022/04/damarfmturkiye-logo.jpg,2
+Dost Radyo,https://yayin.santraltr.com/hls/dost.m3u8,https://i.ibb.co/HDWb9kdg/dost.jpg,2
+Radyo 7 Arabesk,https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-arabesk.jpg,2
+Arabeskland FM,https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8,https://i.ibb.co/7tcZy8ky/Ba-l-ks-z.jpg,2
+BABA Radyo,https://officialbabaradyo.radyotvonline.net/babaofficial?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg,2
+Efsane 4lü,https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/efsane4lu.jpg,2
+Number One Damar,https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8,https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png,2
+
+
+
+Diyanet Kuran Radyo,https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/kuran-radyo.jpg,5
+Diyanet Radyo,https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg,5
+Radyo 7 Kuran Meali,https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-kuran-meali.jpg,5
+Enderun FM,https://yayin2.canliyayin.org:10996/;,https://www.canliradyodinle.fm/wp-content/uploads/enderun-fm.jpg,5
+Lalegül FM,https://icecast.netmedya.net/lalegulfm,https://www.canliradyodinle.fm/wp-content/uploads/lalegul-fm.jpg,5
+Erkam Radyo,https://api-tv5.yayin.com.tr:8002/mp3?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/erkam-radyo.jpg,5
+Bayram FM,https://sslyayin.netyayin.net/3442/stream/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/bayram-fm-100x100.jpg,5
+TGRT FM,https://canli1.ihlasdigitalassets.com/tgrtfm.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/tgrtfm.jpg,5
+Umut FM,https://radyodinle1.turkhosted.com/yayin?uri=yayin1.canliyayin.org:8888/&tkn=O7NAp2ZQLndu1RbUzqxKWA&tms=1750305592,https://www.canliradyodinle.fm/wp-content/uploads/umut-fm.jpg,5
+Radyo Feza,https://yayin.radyofeza.com/8002/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-feza-dinle-100x100.jpg,5
+Radyo Nida,https://anadolu.liderhost.com.tr/8106/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-nida.jpg,5
+Radyo EN,https://yayin2.canliyayin.org:7222/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-en.jpg,5
+Radyo Gül,https://yayin2.canliyayin.org:10989/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-gul.jpg,5
+
+
+Banaz DOST FM,https://sssx.radyosfer.com/banazdostfm/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/banaz-dost-fm.jpg,6
+Ege Havaları,https://moondigitaledge.radyotvonline.net/egehavalari/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-ege-havalari.jpg,6
+Radyo Ekin,https://yayin.turkhosted.com:6006/stream?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-ekin-fm.jpg,6
+Elazığ Radyo 2000,https://radyodinle1.turkhosted.com/yayin?uri=yayin.turkiletisim.com.tr:1092/&tkn=w279SoqGbVI_7R5sI3tWOA&tms=1750298498,https://www.canliradyodinle.fm/wp-content/uploads/elazig-radyo-2000.jpg,6
+FM23,https://radyodinle1.turkhosted.com/yayin?uri=radyofm23.canliyayinda.com:8280/&tkn=tQWsN2Ooo5bXRT_s5wIq5Q&tms=1750296434,https://www.canliradyodinle.fm/wp-content/uploads/radyofm23.jpg,6
+Pazar Genç Radyo,https://dl.gen.tr/gencradyo/canli?,https://www.canliradyodinle.fm/wp-content/uploads/pazar-genc-radyo.jpg,6
+Ankara Havaları,https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8,https://ik.fskit.net/radyohome/media/station/19/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=6b727a&tr=w-1000%3A%2Cbg-6b727a&v=060520030000,6
+Radyo Ankara,https://radyoankara.ozelip.net:8152/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/radyo-ankara.jpg,6
+
+NTV Haber Radyo,https://dogus-live.daioncdn.net/ntv/ntv.m3u8,https://www.lyngsat.com/logo/tv/nn/ntv_tr.png,3
+TRT HABER,https://tv-trthaber.medya.trt.com.tr/master_720.m3u8,https://i.ibb.co/LzcNGmm8/unnamed.png,3
+Haber Global,https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8,https://i.ibb.co/21zzHPgT/Ads-z-tasar-m-7.png,3
+TGRT HABER HD,https://canli.tgrthaber.com/tgrt.m3u8,https://i.ibb.co/KYdPPbs/Ads-z-tasar-m-13.png,3
+TVNET,https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8,https://i.ibb.co/RpyvJDrM/Ads-z-tasar-m-12.png,3
+HABERTURK,https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8,https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png,3
+BLOOMBERG HT,https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8,https://i.ibb.co/0RhF7QQB/Ads-z-tasar-m-8.png,3
+Radyo 24,https://radyo24.radyotvonline.net/radyo24?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/24-radyo.jpg,3
+HaberTürk Radyo,https://haberturkradyo.radyotvonline.net/haberturkradyo?/;stream.mp3,https://www.canliradyodinle.fm/wp-content/uploads/haber-turk-radyo.jpg,3
+Ülke Radyo,https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/ulke-radyo.jpg,3
+
+TRT SPOR,https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8,https://i.ibb.co/WxD4PLG/trt-spor.png,4
+S SPORTS,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8,https://i.ibb.co/Q7qK4qQj/Ads-z-tasar-m-16.png,4
+A SPOR,https://live-cdn-65984.varplaycdn.cfd/aspor/index.m3u8,https://i.ibb.co/rwnrgFV/a-spor.png,4
+Lig Radyo,https://ligradyo.radyotvonline.net/ligradyo,https://www.canliradyodinle.fm/wp-content/uploads/lig-radyo.jpg,4
+Radyo Spor,https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8,https://www.canliradyodinle.fm/wp-content/uploads/radyo-spor.jpg,4
